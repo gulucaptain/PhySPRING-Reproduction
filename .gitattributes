@@ -1,0 +1,7 @@
+* text=auto eol=lf
+# Preserve evidence byte-for-byte so SHA-256 verification is portable.
+results/** -text
+logs/** -text
+configs/** -text
+*.png -text
+*.csv whitespace=cr-at-eol
