@@ -1,0 +1,38 @@
+{
+  "completed_checked": 29,
+  "runs": [
+    "results/suite_final/rope_learned_2/summary.json",
+    "results/suite_final/cloth_random_0/summary.json",
+    "results/suite_final/cloth_learned_2/summary.json",
+    "results/suite_final/cloth_random_1/summary.json",
+    "results/suite_final/rope_random_1/summary.json",
+    "results/suite_final/rope_random_0/summary.json",
+    "results/suite_final/cloth_geometry_0/summary.json",
+    "results/suite_final/rope_geometry_0/summary.json",
+    "results/suite_final/rope_geometry_1/summary.json",
+    "results/suite_final/cloth_geometry_1/summary.json",
+    "results/suite_final/rope_learned_1/summary.json",
+    "results/suite_final/cloth_learned_1/summary.json",
+    "results/suite_final/cloth_random_2/summary.json",
+    "results/suite_final/cloth_learned_0/summary.json",
+    "results/suite_final/rope_learned_0/summary.json",
+    "results/suite_final/rope_random_2/summary.json",
+    "results/suite_final/cloth_geometry_2/summary.json",
+    "results/suite_final/rope_geometry_2/summary.json",
+    "results/real_final/learned_1/summary.json",
+    "results/real_final/geometry_2/summary.json",
+    "results/real_final/random_2/summary.json",
+    "results/real_final/learned_2/summary.json",
+    "results/real_final/random_0/summary.json",
+    "results/real_final/geometry_0/summary.json",
+    "results/real_final/geometry_1/summary.json",
+    "results/real_final/random_1/summary.json",
+    "results/real_repaired_0/summary.json",
+    "results/gpu_large/summary.json",
+    "results/real_step64_sensitivity/summary.json"
+  ],
+  "not_checked": [
+    "historical pilots",
+    "paper equivalence"
+  ]
+}

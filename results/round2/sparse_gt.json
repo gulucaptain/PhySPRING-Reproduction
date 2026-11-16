@@ -1,0 +1,1125 @@
+{
+  "protocol": "3-NN inverse-distance displacement interpolation from first-frame positions; no ground-truth future used for prediction",
+  "results": [
+    {
+      "run": "results/round2/full_random_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.445926298189978
+    },
+    {
+      "run": "results/round2/full_random_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.458022408445665
+    },
+    {
+      "run": "results/round2/full_random_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.601392996682677
+    },
+    {
+      "run": "results/round2/full_random_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.665427415780943
+    },
+    {
+      "run": "results/round2/legacy_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 14.726477800355875
+    },
+    {
+      "run": "results/round2/legacy_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 20.051571607792887
+    },
+    {
+      "run": "results/round2/legacy_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.66141340488944
+    },
+    {
+      "run": "results/round2/legacy_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 33.989835551752044
+    },
+    {
+      "run": "results/round2/full_geometry_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.506538639447122
+    },
+    {
+      "run": "results/round2/full_geometry_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.1382221042941
+    },
+    {
+      "run": "results/round2/full_geometry_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.981719917820442
+    },
+    {
+      "run": "results/round2/full_geometry_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.8169670876911
+    },
+    {
+      "run": "results/round2/physics_only_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 30.354241488349032
+    },
+    {
+      "run": "results/round2/physics_only_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 22.343687724919068
+    },
+    {
+      "run": "results/round2/physics_only_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.593812291573002
+    },
+    {
+      "run": "results/round2/physics_only_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 30.30537343471204
+    },
+    {
+      "run": "results/round2/legacy_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.793522410265908
+    },
+    {
+      "run": "results/round2/legacy_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.16134822239461
+    },
+    {
+      "run": "results/round2/legacy_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.37217764423858
+    },
+    {
+      "run": "results/round2/legacy_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 48.34100885021225
+    },
+    {
+      "run": "results/round2/full_random_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.374650450597027
+    },
+    {
+      "run": "results/round2/full_random_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.83643380468494
+    },
+    {
+      "run": "results/round2/full_random_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.101425779011564
+    },
+    {
+      "run": "results/round2/full_random_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.574691492517985
+    },
+    {
+      "run": "results/round2/physics_only_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 38.79149985007612
+    },
+    {
+      "run": "results/round2/physics_only_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 30.30066107872018
+    },
+    {
+      "run": "results/round2/physics_only_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.167759347238253
+    },
+    {
+      "run": "results/round2/physics_only_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.037301486993847
+    },
+    {
+      "run": "results/round2/full_global_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.241693401052473
+    },
+    {
+      "run": "results/round2/full_global_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.05661948065934
+    },
+    {
+      "run": "results/round2/full_global_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 29.392224109286502
+    },
+    {
+      "run": "results/round2/full_global_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 29.97833523062762
+    },
+    {
+      "run": "results/round2/loss_only_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 13.03996941056538
+    },
+    {
+      "run": "results/round2/loss_only_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.913742340504665
+    },
+    {
+      "run": "results/round2/loss_only_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.384259603311918
+    },
+    {
+      "run": "results/round2/loss_only_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.57874569107618
+    },
+    {
+      "run": "results/round2/schedule_only_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 15.25420170415479
+    },
+    {
+      "run": "results/round2/schedule_only_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.01995806475582
+    },
+    {
+      "run": "results/round2/schedule_only_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.22961275582222
+    },
+    {
+      "run": "results/round2/schedule_only_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 28.682554758282752
+    },
+    {
+      "run": "results/round2/loss_only_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.55675852253827
+    },
+    {
+      "run": "results/round2/loss_only_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.03867982832922
+    },
+    {
+      "run": "results/round2/loss_only_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.61705739603214
+    },
+    {
+      "run": "results/round2/loss_only_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.1878063111433
+    },
+    {
+      "run": "results/round2/full_local_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.908197582870535
+    },
+    {
+      "run": "results/round2/full_local_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.716038113157293
+    },
+    {
+      "run": "results/round2/full_local_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 21.777690935988197
+    },
+    {
+      "run": "results/round2/full_local_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.070804970277685
+    },
+    {
+      "run": "results/round2/full_local_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.351833101603663
+    },
+    {
+      "run": "results/round2/full_local_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.222835119739237
+    },
+    {
+      "run": "results/round2/full_local_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.503993199272713
+    },
+    {
+      "run": "results/round2/full_local_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 22.401791173085414
+    },
+    {
+      "run": "results/round2/full_geometry_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.307373245542774
+    },
+    {
+      "run": "results/round2/full_geometry_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.86216973659691
+    },
+    {
+      "run": "results/round2/full_geometry_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.188863458211596
+    },
+    {
+      "run": "results/round2/full_geometry_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.59666015477388
+    },
+    {
+      "run": "results/round2/legacy_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 14.335869172972297
+    },
+    {
+      "run": "results/round2/legacy_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 21.157331347030468
+    },
+    {
+      "run": "results/round2/legacy_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.135378563491123
+    },
+    {
+      "run": "results/round2/legacy_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 19.761096235089227
+    },
+    {
+      "run": "results/round2/physics_only_2_steps32",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.1387907531569
+    },
+    {
+      "run": "results/round2/physics_only_2_steps32",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.04931391912877
+    },
+    {
+      "run": "results/round2/physics_only_2_steps32",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 29.374606443031556
+    },
+    {
+      "run": "results/round2/physics_only_2_steps32",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.714209199020804
+    },
+    {
+      "run": "results/round2/full_geometry_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.095983234769907
+    },
+    {
+      "run": "results/round2/full_geometry_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.865638836263614
+    },
+    {
+      "run": "results/round2/full_geometry_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.879678571915683
+    },
+    {
+      "run": "results/round2/full_geometry_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.92046021197312
+    },
+    {
+      "run": "results/round2/full_random_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.113873746361133
+    },
+    {
+      "run": "results/round2/full_random_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.257354849955302
+    },
+    {
+      "run": "results/round2/full_random_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.279644416942503
+    },
+    {
+      "run": "results/round2/full_random_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.342549644428317
+    },
+    {
+      "run": "results/round2/full_global_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.888294629429737
+    },
+    {
+      "run": "results/round2/full_global_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 22.746805021156405
+    },
+    {
+      "run": "results/round2/full_global_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.582695935613614
+    },
+    {
+      "run": "results/round2/full_global_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 36.20145039392596
+    },
+    {
+      "run": "results/round2/full_global_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 30.79288965714218
+    },
+    {
+      "run": "results/round2/full_global_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.355845682042407
+    },
+    {
+      "run": "results/round2/full_global_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.46954671380992
+    },
+    {
+      "run": "results/round2/full_global_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.395635417367945
+    },
+    {
+      "run": "results/round2/pilot",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 22.75494517254992
+    },
+    {
+      "run": "results/round2/pilot",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.749301687097148
+    },
+    {
+      "run": "results/round2/pilot",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 39.7782541990891
+    },
+    {
+      "run": "results/round2/pilot",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 37.775052566578935
+    },
+    {
+      "run": "results/round2/schedule_only_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 16.325919876659444
+    },
+    {
+      "run": "results/round2/schedule_only_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.957016167439576
+    },
+    {
+      "run": "results/round2/schedule_only_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 16.206150711132555
+    },
+    {
+      "run": "results/round2/schedule_only_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.50834346357082
+    },
+    {
+      "run": "results/round2/schedule_only_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.887725785999137
+    },
+    {
+      "run": "results/round2/schedule_only_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 19.598188170862063
+    },
+    {
+      "run": "results/round2/schedule_only_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.416128595297646
+    },
+    {
+      "run": "results/round2/schedule_only_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.960749033798237
+    },
+    {
+      "run": "results/round2/loss_only_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.019584379150995
+    },
+    {
+      "run": "results/round2/loss_only_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.012248859730267
+    },
+    {
+      "run": "results/round2/loss_only_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 17.00705227348505
+    },
+    {
+      "run": "results/round2/loss_only_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.01284931208345
+    },
+    {
+      "run": "results/round2/full_local_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.51754100103725
+    },
+    {
+      "run": "results/round2/full_local_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.314457029006117
+    },
+    {
+      "run": "results/round2/full_local_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.369962633985665
+    },
+    {
+      "run": "results/round2/full_local_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.86209606832935
+    },
+    {
+      "run": "results/round2_aligned/full_random_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.04066376202373
+    },
+    {
+      "run": "results/round2_aligned/full_random_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.78925173482127
+    },
+    {
+      "run": "results/round2_aligned/full_random_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.262100694173114
+    },
+    {
+      "run": "results/round2_aligned/full_random_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.22577013390321
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.7246545344128
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.46589714407717
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.114241909460137
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.87041097435838
+    },
+    {
+      "run": "results/round2_aligned/full_random_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.684533685523654
+    },
+    {
+      "run": "results/round2_aligned/full_random_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.575174938686924
+    },
+    {
+      "run": "results/round2_aligned/full_random_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.31571658589647
+    },
+    {
+      "run": "results/round2_aligned/full_random_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.130718928319475
+    },
+    {
+      "run": "results/round2_aligned/full_global_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.9014945563406
+    },
+    {
+      "run": "results/round2_aligned/full_global_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.935635801137103
+    },
+    {
+      "run": "results/round2_aligned/full_global_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 29.799322892114798
+    },
+    {
+      "run": "results/round2_aligned/full_global_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.355030844907116
+    },
+    {
+      "run": "results/round2_aligned/loss_only_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 15.281358814646184
+    },
+    {
+      "run": "results/round2_aligned/loss_only_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 19.08030803769119
+    },
+    {
+      "run": "results/round2_aligned/loss_only_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 20.099593254109195
+    },
+    {
+      "run": "results/round2_aligned/loss_only_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.27937450728846
+    },
+    {
+      "run": "results/round2_aligned/loss_only_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.69336426921127
+    },
+    {
+      "run": "results/round2_aligned/loss_only_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.206612373732384
+    },
+    {
+      "run": "results/round2_aligned/loss_only_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.85906279949623
+    },
+    {
+      "run": "results/round2_aligned/loss_only_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 28.100006427406342
+    },
+    {
+      "run": "results/round2_aligned/full_local_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.072717942062376
+    },
+    {
+      "run": "results/round2_aligned/full_local_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.00986251321723
+    },
+    {
+      "run": "results/round2_aligned/full_local_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.131354107914056
+    },
+    {
+      "run": "results/round2_aligned/full_local_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.37710936154783
+    },
+    {
+      "run": "results/round2_aligned/full_local_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.74698217514615
+    },
+    {
+      "run": "results/round2_aligned/full_local_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.292244344656552
+    },
+    {
+      "run": "results/round2_aligned/full_local_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.404390974518705
+    },
+    {
+      "run": "results/round2_aligned/full_local_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.770164916773172
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.65931014085175
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.328458843419924
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.813989044894292
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.084481280860896
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.714848182257462
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.59240075837624
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.706819226764697
+    },
+    {
+      "run": "results/round2_aligned/full_geometry_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 22.86997238632353
+    },
+    {
+      "run": "results/round2_aligned/full_random_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.359472363332788
+    },
+    {
+      "run": "results/round2_aligned/full_random_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.2071441981016
+    },
+    {
+      "run": "results/round2_aligned/full_random_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.110957838963206
+    },
+    {
+      "run": "results/round2_aligned/full_random_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 28.583974245096027
+    },
+    {
+      "run": "results/round2_aligned/full_global_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.021401996667656
+    },
+    {
+      "run": "results/round2_aligned/full_global_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.44568534136198
+    },
+    {
+      "run": "results/round2_aligned/full_global_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.835709144437136
+    },
+    {
+      "run": "results/round2_aligned/full_global_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 30.293351865442926
+    },
+    {
+      "run": "results/round2_aligned/full_global_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.95327741617029
+    },
+    {
+      "run": "results/round2_aligned/full_global_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 21.54990346307874
+    },
+    {
+      "run": "results/round2_aligned/full_global_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.852183354393183
+    },
+    {
+      "run": "results/round2_aligned/full_global_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 29.040523059868043
+    },
+    {
+      "run": "results/round2_aligned/loss_only_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 12.313647599827924
+    },
+    {
+      "run": "results/round2_aligned/loss_only_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 21.23725751047541
+    },
+    {
+      "run": "results/round2_aligned/loss_only_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 27.737189857421885
+    },
+    {
+      "run": "results/round2_aligned/loss_only_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 29.53673843175858
+    },
+    {
+      "run": "results/round2_aligned/full_local_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.731251875348843
+    },
+    {
+      "run": "results/round2_aligned/full_local_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 24.19631946636432
+    },
+    {
+      "run": "results/round2_aligned/full_local_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.80218213950235
+    },
+    {
+      "run": "results/round2_aligned/full_local_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.848282435133683
+    }
+  ]
+}

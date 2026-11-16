@@ -1,0 +1,141 @@
+{
+  "baselines": {
+    "initial_untrained": {
+      "track_m": 0.060377009212970734,
+      "cd_m": 0.03361400216817856,
+      "max_error_m": 0.19229206442832947,
+      "valid_points": 27648,
+      "valid_frames": 192
+    },
+    "static": {
+      "track_m": 0.5334976315498352,
+      "cd_m": 0.45193004608154297,
+      "max_error_m": 0.6681019067764282,
+      "valid_points": 27648,
+      "valid_frames": 192
+    }
+  },
+  "status": "procedural diagnostic; not paper benchmark",
+  "config": {
+    "output": "physpring/results/round3/gpu_fullmass_144",
+    "device": "mps",
+    "strategy": "learned",
+    "seed": 0,
+    "epochs": 80,
+    "size": 12,
+    "frames": 24,
+    "batch": 16,
+    "substeps": 8,
+    "hidden": 128,
+    "threads": 1,
+    "kind": "cloth",
+    "data": null,
+    "resume": null,
+    "projection": "full",
+    "supervision": "cumulative",
+    "physics": "reference",
+    "loss": "reference",
+    "schedule": "deterministic_tail",
+    "heads": "additive",
+    "merge": "global",
+    "legacy_model": false,
+    "self_collision": 0.0,
+    "checkpoint_frames": false,
+    "revision": 3,
+    "train_frames": 12,
+    "dt": 0.03333333333333333,
+    "data_seed": 123,
+    "train_split": "data-specified or first half; future withheld",
+    "torch": "2.15.0",
+    "python": "3.12.13",
+    "machine": "arm64",
+    "actual_nodes": 144,
+    "actual_batch": 16,
+    "actual_frames": 24,
+    "source_kind": "cloth"
+  },
+  "training_s": 77.11267437494826,
+  "mps_driver_peak_bytes": 3962519552,
+  "levels": [
+    {
+      "level": 0,
+      "nodes": 144,
+      "train": {
+        "track_m": 0.002223134972155094,
+        "cd_m": 0.002223149174824357,
+        "max_error_m": 0.013042213395237923,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "future": {
+        "track_m": 0.007140421308577061,
+        "cd_m": 0.007140435744076967,
+        "max_error_m": 0.02560199238359928,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "rollout_s": 0.2710567779916649,
+      "aggregate_fps": 1416.6773575822854
+    },
+    {
+      "level": 1,
+      "nodes": 86,
+      "train": {
+        "track_m": 0.014559130184352398,
+        "cd_m": 0.013611266389489174,
+        "max_error_m": 0.12730009853839874,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "future": {
+        "track_m": 0.04465489834547043,
+        "cd_m": 0.03378655016422272,
+        "max_error_m": 0.19436296820640564,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "rollout_s": 0.13463045831304044,
+      "aggregate_fps": 2852.2520446831563
+    },
+    {
+      "level": 2,
+      "nodes": 58,
+      "train": {
+        "track_m": 0.01976044289767742,
+        "cd_m": 0.017135828733444214,
+        "max_error_m": 0.19501212239265442,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "future": {
+        "track_m": 0.053303591907024384,
+        "cd_m": 0.04100905731320381,
+        "max_error_m": 0.2881210446357727,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "rollout_s": 0.10670929165401806,
+      "aggregate_fps": 3598.561981322465
+    },
+    {
+      "level": 3,
+      "nodes": 43,
+      "train": {
+        "track_m": 0.026709865778684616,
+        "cd_m": 0.0224527046084404,
+        "max_error_m": 0.30524805188179016,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "future": {
+        "track_m": 0.15050533413887024,
+        "cd_m": 0.06783394515514374,
+        "max_error_m": 0.5303532481193542,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "rollout_s": 0.10113499996562798,
+      "aggregate_fps": 3796.9051281011252
+    }
+  ]
+}

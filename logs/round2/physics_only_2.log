@@ -1,0 +1,16 @@
+{"epoch": 0, "stage": 0, "stochastic": true, "loss": 0.00033211003756150603, "gradient_norm": 0.00013157716603018343, "elapsed_s": 1.0555289579788223}
+{"epoch": 10, "stage": 0, "stochastic": true, "loss": 0.00031168077839538455, "gradient_norm": 4.906928006676026e-05, "elapsed_s": 13.511210125056095}
+{"epoch": 20, "stage": 1, "stochastic": true, "loss": 0.0007104467367753386, "gradient_norm": 0.00027201647753827274, "elapsed_s": 27.58487966703251}
+{"epoch": 30, "stage": 1, "stochastic": true, "loss": 0.0006008711061440408, "gradient_norm": 0.00037548699765466154, "elapsed_s": 49.998773250030354}
+{"epoch": 40, "stage": 2, "stochastic": true, "loss": 0.0010192296467721462, "gradient_norm": 0.0014257264556363225, "elapsed_s": 72.79044891707599}
+{"epoch": 50, "stage": 2, "stochastic": true, "loss": 0.000918883946724236, "gradient_norm": 0.0008934929501265287, "elapsed_s": 101.70862479205243}
+{"epoch": 60, "stage": 3, "stochastic": true, "loss": 0.0013549933210015297, "gradient_norm": 0.0007207370363175869, "elapsed_s": 131.39808545797132}
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "./src/physpring/experiment_v2.py", line 175, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "./src/physpring/experiment_v2.py", line 132, in main
+    raise RuntimeError(f'Nonfinite loss at epoch {epoch}; pre-update state saved')
+RuntimeError: Nonfinite loss at epoch 67; pre-update state saved

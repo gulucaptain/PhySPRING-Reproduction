@@ -1,0 +1,76 @@
+{
+  "checked_date": "2026-11-16",
+  "paper_version": "arXiv:2605.07687v1",
+  "files": [
+    {
+      "path": "sources/paper.pdf",
+      "bytes": 42369139,
+      "sha256": "8ca48e4af1de1ce498b48f612aa165eba632c251821168647436a1f7de376ea4"
+    },
+    {
+      "path": "sources/download_manifest.json",
+      "bytes": 1380,
+      "sha256": "473844158dc4aa71ed49ceb84a8d2dbed6a1aef1bf2123913dd3271ae70bc349"
+    },
+    {
+      "path": "sources/abstract.html",
+      "bytes": 43441,
+      "sha256": "b30ef10c38d9b8a54077038be852ccece3ad5483c0a5fb370509494bfda8c652"
+    },
+    {
+      "path": "sources/phystwin_config.py",
+      "bytes": 2379,
+      "sha256": "ac16e4eef8993de020b7f97da70c2496d26a1b0e790375ad28947a4f0f859f67"
+    },
+    {
+      "path": "sources/phystwin_real_data.py",
+      "bytes": 3882,
+      "sha256": "6ec89d7d97da1ea550b8fa22dbb2f39fc3c15e472bf78e3b92b449f884381ee6"
+    },
+    {
+      "path": "sources/paper.txt",
+      "bytes": 66269,
+      "sha256": "b00bc18ecee70f95e3df9a42071e3fc022f9dc972a886dbe3d9f22445d6fab4f"
+    },
+    {
+      "path": "sources/phystwin_files.json",
+      "bytes": 1716,
+      "sha256": "bd0c87a7d49d9b7ea301af853e31968ee8942b2cb662a65da4ae5c4e6cefa137"
+    },
+    {
+      "path": "sources/phystwin_real.yaml",
+      "bytes": 522,
+      "sha256": "a40a5ec2f5c978c1290810f20ed56db7cab99dc0c227adfe6b7434dfc95ead48"
+    },
+    {
+      "path": "sources/phystwin_archive_index.json",
+      "bytes": 5140793,
+      "sha256": "4a9fdbdd3911170ef3195fcc378a0ac64e2a8c26f1faeb31541dca00a502072f"
+    },
+    {
+      "path": "sources/paper.html",
+      "bytes": 375155,
+      "sha256": "3f2293b0e71e93a751c5560a8be61d202757779c7621e6dbcff5fb477507a3b5"
+    },
+    {
+      "path": "sources/phystwin_spring_mass_warp.py",
+      "bytes": 36674,
+      "sha256": "7deab9a25f4b8b8772f7df45c35571caf3767d014dd353cad151fe8eddceca1c"
+    },
+    {
+      "path": "sources/project.html",
+      "bytes": 18353,
+      "sha256": "ecf5d88cc8c2cec189d593ddd0e9ce25841a51204baae451b24ce85a8542f1ad"
+    },
+    {
+      "path": "sources/phystwin_cloth.yaml",
+      "bytes": 543,
+      "sha256": "677ed247131bab6a5a34186748f61282a9d7225e0ddf07a6c29d7944bd2da858"
+    },
+    {
+      "path": "sources/phystwin_tree.json",
+      "bytes": 308723,
+      "sha256": "e21a9b2b742241cb765bdf62d1bd5f4a9181c11a9049815eea829fbc4aa902d0"
+    }
+  ]
+}

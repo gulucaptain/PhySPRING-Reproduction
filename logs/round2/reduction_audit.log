@@ -1,0 +1,35 @@
+./scripts/audit_reduction.py:23: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at /Users/runner/work/pytorch/pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:821.)
+  relative=float((collapsed-exact).norm()/exact.norm())
+{
+  "literal_eq6": {
+    "nodes": 68,
+    "deterministic_nonempty_columns": 68,
+    "random_features_note": "illustrative random features, not trained features",
+    "gumbel_nonempty_min": 68,
+    "gumbel_nonempty_max": 68
+  },
+  "tangent_audit": [
+    {
+      "strategy": "learned",
+      "nodes": 41,
+      "scalar_projection_max_error": 0.0,
+      "axial_tangent_relative_error": 0.40589705000453086,
+      "lifted_force_jacobian_max_error": 2.842170943040401e-14
+    },
+    {
+      "strategy": "geometry",
+      "nodes": 41,
+      "scalar_projection_max_error": 0.0,
+      "axial_tangent_relative_error": 0.20903059625124176,
+      "lifted_force_jacobian_max_error": 5.684341886080802e-14
+    },
+    {
+      "strategy": "random",
+      "nodes": 41,
+      "scalar_projection_max_error": 0.0,
+      "axial_tangent_relative_error": 0.25018013408242595,
+      "lifted_force_jacobian_max_error": 5.684341886080802e-14
+    }
+  ]
+}

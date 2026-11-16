@@ -1,0 +1,266 @@
+{
+  "workers": 6,
+  "epochs": 80,
+  "substeps": 16,
+  "hidden": 128,
+  "plan": [
+    {
+      "name": "legacy",
+      "seed": 0,
+      "options": {
+        "physics": "legacy",
+        "loss": "legacy",
+        "schedule": "legacy",
+        "heads": "multiplicative",
+        "legacy_model": true
+      }
+    },
+    {
+      "name": "legacy",
+      "seed": 1,
+      "options": {
+        "physics": "legacy",
+        "loss": "legacy",
+        "schedule": "legacy",
+        "heads": "multiplicative",
+        "legacy_model": true
+      }
+    },
+    {
+      "name": "legacy",
+      "seed": 2,
+      "options": {
+        "physics": "legacy",
+        "loss": "legacy",
+        "schedule": "legacy",
+        "heads": "multiplicative",
+        "legacy_model": true
+      }
+    },
+    {
+      "name": "loss_only",
+      "seed": 0,
+      "options": {
+        "physics": "legacy",
+        "loss": "reference",
+        "schedule": "legacy",
+        "heads": "multiplicative",
+        "legacy_model": true
+      }
+    },
+    {
+      "name": "loss_only",
+      "seed": 1,
+      "options": {
+        "physics": "legacy",
+        "loss": "reference",
+        "schedule": "legacy",
+        "heads": "multiplicative",
+        "legacy_model": true
+      }
+    },
+    {
+      "name": "loss_only",
+      "seed": 2,
+      "options": {
+        "physics": "legacy",
+        "loss": "reference",
+        "schedule": "legacy",
+        "heads": "multiplicative",
+        "legacy_model": true
+      }
+    },
+    {
+      "name": "physics_only",
+      "seed": 0,
+      "options": {
+        "physics": "reference",
+        "loss": "legacy",
+        "schedule": "legacy",
+        "heads": "multiplicative",
+        "legacy_model": true
+      }
+    },
+    {
+      "name": "physics_only",
+      "seed": 1,
+      "options": {
+        "physics": "reference",
+        "loss": "legacy",
+        "schedule": "legacy",
+        "heads": "multiplicative",
+        "legacy_model": true
+      }
+    },
+    {
+      "name": "physics_only",
+      "seed": 2,
+      "options": {
+        "physics": "reference",
+        "loss": "legacy",
+        "schedule": "legacy",
+        "heads": "multiplicative",
+        "legacy_model": true
+      }
+    },
+    {
+      "name": "schedule_only",
+      "seed": 0,
+      "options": {
+        "physics": "legacy",
+        "loss": "legacy",
+        "schedule": "deterministic_tail",
+        "heads": "multiplicative"
+      }
+    },
+    {
+      "name": "schedule_only",
+      "seed": 1,
+      "options": {
+        "physics": "legacy",
+        "loss": "legacy",
+        "schedule": "deterministic_tail",
+        "heads": "multiplicative"
+      }
+    },
+    {
+      "name": "schedule_only",
+      "seed": 2,
+      "options": {
+        "physics": "legacy",
+        "loss": "legacy",
+        "schedule": "deterministic_tail",
+        "heads": "multiplicative"
+      }
+    },
+    {
+      "name": "full_global",
+      "seed": 0,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive"
+      }
+    },
+    {
+      "name": "full_global",
+      "seed": 1,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive"
+      }
+    },
+    {
+      "name": "full_global",
+      "seed": 2,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive"
+      }
+    },
+    {
+      "name": "full_local",
+      "seed": 0,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive",
+        "merge": "local"
+      }
+    },
+    {
+      "name": "full_local",
+      "seed": 1,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive",
+        "merge": "local"
+      }
+    },
+    {
+      "name": "full_local",
+      "seed": 2,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive",
+        "merge": "local"
+      }
+    },
+    {
+      "name": "full_geometry",
+      "seed": 0,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive",
+        "strategy": "geometry"
+      }
+    },
+    {
+      "name": "full_geometry",
+      "seed": 1,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive",
+        "strategy": "geometry"
+      }
+    },
+    {
+      "name": "full_geometry",
+      "seed": 2,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive",
+        "strategy": "geometry"
+      }
+    },
+    {
+      "name": "full_random",
+      "seed": 0,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive",
+        "strategy": "random"
+      }
+    },
+    {
+      "name": "full_random",
+      "seed": 1,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive",
+        "strategy": "random"
+      }
+    },
+    {
+      "name": "full_random",
+      "seed": 2,
+      "options": {
+        "physics": "reference",
+        "loss": "reference",
+        "schedule": "deterministic_tail",
+        "heads": "additive",
+        "strategy": "random"
+      }
+    }
+  ]
+}

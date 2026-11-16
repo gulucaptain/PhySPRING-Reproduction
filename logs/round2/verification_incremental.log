@@ -1,0 +1,3 @@
+full_local_0 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 1, 'clusters': 20, 'max_cluster_diameter_m': 0.17101557552814484}
+full_local_1 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 0, 'clusters': 20, 'max_cluster_diameter_m': 0.18088147044181824}
+full_local_2 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 0, 'clusters': 20, 'max_cluster_diameter_m': 0.2192641794681549}

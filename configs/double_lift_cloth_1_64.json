@@ -1,0 +1,23 @@
+{
+  "case": "double_lift_cloth_1",
+  "original_object_nodes": 4742,
+  "selected_object_nodes": 64,
+  "controller_nodes": 4,
+  "frames": 116,
+  "official_split": {
+    "frame_len": 116,
+    "train": [
+      0,
+      81
+    ],
+    "test": [
+      81,
+      116
+    ]
+  },
+  "initial_only_sampling": true,
+  "axis_transform": "z -> -z",
+  "mass_assumption": "object total mass 1kg, controller mass same per-node",
+  "graph_assumption": "symmetric 6-NN",
+  "not_paper_scale": true
+}

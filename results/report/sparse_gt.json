@@ -1,0 +1,257 @@
+{
+  "protocol": "3-NN inverse-distance displacement interpolation from first-frame positions; no ground-truth future used for prediction",
+  "results": [
+    {
+      "run": "results/real_final/learned_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 14.726477800355875
+    },
+    {
+      "run": "results/real_final/learned_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 20.051571607792887
+    },
+    {
+      "run": "results/real_final/learned_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.66141340488944
+    },
+    {
+      "run": "results/real_final/learned_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 33.989835551752044
+    },
+    {
+      "run": "results/real_final/geometry_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 22.07925752396108
+    },
+    {
+      "run": "results/real_final/geometry_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 20.578714733470058
+    },
+    {
+      "run": "results/real_final/geometry_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 28.253417038551202
+    },
+    {
+      "run": "results/real_final/geometry_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 14.159548268657652
+    },
+    {
+      "run": "results/real_final/random_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 22.665804904594896
+    },
+    {
+      "run": "results/real_final/random_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.415451253723504
+    },
+    {
+      "run": "results/real_final/random_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 32.915703594286796
+    },
+    {
+      "run": "results/real_final/random_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 28.072496715560302
+    },
+    {
+      "run": "results/real_final/learned_2",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 14.335869172972297
+    },
+    {
+      "run": "results/real_final/learned_2",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 21.157331347030468
+    },
+    {
+      "run": "results/real_final/learned_2",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.135378563491123
+    },
+    {
+      "run": "results/real_final/learned_2",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 19.761096235089227
+    },
+    {
+      "run": "results/real_final/random_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 19.21705486281348
+    },
+    {
+      "run": "results/real_final/random_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 18.864040784264432
+    },
+    {
+      "run": "results/real_final/random_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.363727125482626
+    },
+    {
+      "run": "results/real_final/random_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 26.724229342073716
+    },
+    {
+      "run": "results/real_final/geometry_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 13.721424692280358
+    },
+    {
+      "run": "results/real_final/geometry_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 17.227331700502877
+    },
+    {
+      "run": "results/real_final/geometry_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 19.63178672845257
+    },
+    {
+      "run": "results/real_final/geometry_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 18.4075087801428
+    },
+    {
+      "run": "results/real_final/geometry_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.15499669123171
+    },
+    {
+      "run": "results/real_final/geometry_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 18.9073121844378
+    },
+    {
+      "run": "results/real_final/geometry_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 22.7958280833295
+    },
+    {
+      "run": "results/real_final/geometry_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 18.825922529127688
+    },
+    {
+      "run": "results/real_final/random_1",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 15.269865910761267
+    },
+    {
+      "run": "results/real_final/random_1",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 21.524128173344042
+    },
+    {
+      "run": "results/real_final/random_1",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 35.890309403088274
+    },
+    {
+      "run": "results/real_final/random_1",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 20.995758856100263
+    },
+    {
+      "run": "results/real_repaired_0",
+      "level": 0,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.793522410265908
+    },
+    {
+      "run": "results/real_repaired_0",
+      "level": 1,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 25.16134822239461
+    },
+    {
+      "run": "results/real_repaired_0",
+      "level": 2,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 23.37217764423858
+    },
+    {
+      "run": "results/real_repaired_0",
+      "level": 3,
+      "annotated_tracks": 9,
+      "future_valid_points": 314,
+      "future_error_mm": 48.34100885021225
+    }
+  ]
+}

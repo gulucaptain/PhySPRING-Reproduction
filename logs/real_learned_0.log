@@ -1,0 +1,18 @@
+{"epoch": 0, "stage": 0, "loss": 0.00033907819306477904, "gradient_norm": 0.00016091614088509232, "elapsed_s": 0.8613134169718251}
+{"epoch": 10, "stage": 0, "loss": 0.00031367948395200074, "gradient_norm": 15344.8505859375, "elapsed_s": 8.333511834032834}
+{"epoch": 20, "stage": 1, "loss": 0.0008069638861343265, "gradient_norm": 0.0005062025738880038, "elapsed_s": 16.659352291957475}
+{"epoch": 30, "stage": 1, "loss": 0.0007269237539730966, "gradient_norm": 0.00019501231145113707, "elapsed_s": 31.822000124957412}
+{"epoch": 40, "stage": 2, "loss": 0.0011532865464687347, "gradient_norm": 0.00039919171831570566, "elapsed_s": 47.42909308394883}
+{"epoch": 50, "stage": 2, "loss": 0.0010839012684300542, "gradient_norm": 0.05876408889889717, "elapsed_s": 69.42692266695667}
+{"epoch": 60, "stage": 3, "loss": 0.0015531238168478012, "gradient_norm": 8882195791872.0, "elapsed_s": 90.15658533398528}
+{"epoch": 70, "stage": 3, "loss": 0.0015511568635702133, "gradient_norm": Infinity, "elapsed_s": 113.67240308399778}
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "./src/physpring/experiment.py", line 117, in <module>
+    if __name__=='__main__':main()
+                            ^^^^^^
+  File "./src/physpring/experiment.py", line 80, in main
+    if not torch.isfinite(loss):raise RuntimeError(f'Nonfinite loss at epoch {epoch}')
+                                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+RuntimeError: Nonfinite loss at epoch 79

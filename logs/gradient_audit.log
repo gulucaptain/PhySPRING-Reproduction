@@ -1,0 +1,3 @@
+{"epoch": 70, "substeps": 16, "loss": 0.0015511568635702133, "all_gradient_elements_finite": true, "max_gradient": 2.5879206583470606e+26, "norm_float64": 1.191287287225565e+27, "norm_float32": Infinity}
+{"epoch": 70, "substeps": 32, "loss": 0.0015389134641736746, "all_gradient_elements_finite": true, "max_gradient": 6327833722880.0, "norm_float64": 26151811243637.383, "norm_float32": 26151810498560.0}
+{"epoch": 70, "substeps": 64, "loss": 0.0015360156539827585, "all_gradient_elements_finite": true, "max_gradient": 72250.1328125, "norm_float64": 306120.8329271469, "norm_float32": 306120.84375}

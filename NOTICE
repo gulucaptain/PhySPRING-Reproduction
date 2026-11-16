@@ -1,0 +1,15 @@
+PhySPRING independent reproduction
+
+Original implementation code is licensed under MIT. The PhySPRING paper,
+PhysTwin project, datasets and third-party libraries retain their respective
+copyrights and licenses. This repository is not affiliated with the authors.
+
+Paper: https://arxiv.org/abs/2605.07687
+PhysTwin: https://github.com/Jianghanxiao/PhysTwin
+Data: https://huggingface.co/datasets/Jianghanxiao/PhysTwin
+
+Downloaded paper files and third-party source caches are not redistributed.
+Their URLs, revision and research-copy hashes are retained in sources/.
+Dataset observations, model checkpoints and prediction tensors are excluded;
+recorded measurements and original implementation source snapshots are included.
+Absolute local workspace prefixes were normalized only in exported text.

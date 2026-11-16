@@ -1,0 +1,6 @@
+{'size': 4, 'nodes': 16, 'batch': 2, 'device': 'cpu', 'forward_backward_s': 0.031252791988663375}
+{'size': 4, 'nodes': 16, 'batch': 2, 'device': 'mps', 'forward_backward_s': 0.13938804098870605, 'position_max_abs': 2.9802322387695312e-08, 'gradient_max_abs': 3.603872755775228e-11}
+{'size': 8, 'nodes': 64, 'batch': 8, 'device': 'cpu', 'forward_backward_s': 0.07827033405192196}
+{'size': 8, 'nodes': 64, 'batch': 8, 'device': 'mps', 'forward_backward_s': 0.044354749959893525, 'position_max_abs': 2.384185791015625e-07, 'gradient_max_abs': 3.61666252501891e-11}
+{'size': 12, 'nodes': 144, 'batch': 32, 'device': 'cpu', 'forward_backward_s': 1.6163390419678763}
+{'size': 12, 'nodes': 144, 'batch': 32, 'device': 'mps', 'forward_backward_s': 0.3611182910390198, 'position_max_abs': 2.980232238769531e-07, 'gradient_max_abs': 3.433342499192804e-11}

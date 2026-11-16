@@ -1,0 +1,1682 @@
+[
+  {
+    "name": "round2/full_geometry_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08063614368438721
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.08291216194629669
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.14304617047309875
+      }
+    ]
+  },
+  {
+    "name": "round2/full_geometry_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08063614368438721
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.08291216194629669
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.14304617047309875
+      }
+    ]
+  },
+  {
+    "name": "round2/full_geometry_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08063614368438721
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.08291216194629669
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.14304617047309875
+      }
+    ]
+  },
+  {
+    "name": "round2/full_global_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 4,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.12918826937675476
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 6,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.28537216782569885
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 7,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.42673012614250183
+      }
+    ]
+  },
+  {
+    "name": "round2/full_global_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 5,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.27496659755706787
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 7,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.34320157766342163
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 3,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.34320157766342163
+      }
+    ]
+  },
+  {
+    "name": "round2/full_global_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 8,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.22051388025283813
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 10,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.3277096450328827
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 5,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.4003763794898987
+      }
+    ]
+  },
+  {
+    "name": "round2/full_local_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08503317832946777
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.1426394283771515
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 1,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.16419720649719238
+      }
+    ]
+  },
+  {
+    "name": "round2/full_local_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08496765792369843
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 1,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.21213984489440918
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 1,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.21213984489440918
+      }
+    ]
+  },
+  {
+    "name": "round2/full_local_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.09642694890499115
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.1554013192653656
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.16579462587833405
+      }
+    ]
+  },
+  {
+    "name": "round2/full_random_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.10531716048717499
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.1669618934392929
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.1669618934392929
+      }
+    ]
+  },
+  {
+    "name": "round2/full_random_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.09982416778802872
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.117088183760643
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.12735985219478607
+      }
+    ]
+  },
+  {
+    "name": "round2/full_random_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08218055218458176
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.12218151986598969
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.14045262336730957
+      }
+    ]
+  },
+  {
+    "name": "round2/gpu_144",
+    "trained_device": "mps",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 1.3113021850585938e-06,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 144,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 2.008676528930664e-05,
+        "equals_last_supervised_map": true,
+        "mass_error": 1.1920928955078125e-07,
+        "disconnected_clusters": 15,
+        "clusters": 86,
+        "max_cluster_diameter_m": 0.7909090518951416
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 3.337860107421875e-06,
+        "equals_last_supervised_map": true,
+        "mass_error": 1.1920928955078125e-07,
+        "disconnected_clusters": 18,
+        "clusters": 58,
+        "max_cluster_diameter_m": 0.8248715996742249
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 1.5348196029663086e-06,
+        "equals_last_supervised_map": true,
+        "mass_error": 1.1920928955078125e-07,
+        "disconnected_clusters": 14,
+        "clusters": 43,
+        "max_cluster_diameter_m": 0.8248715996742249
+      }
+    ]
+  },
+  {
+    "name": "round2/legacy_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 1,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.1284485012292862
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 5,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.28520575165748596
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 5,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.3804677128791809
+      }
+    ]
+  },
+  {
+    "name": "round2/legacy_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 9,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.26789653301239014
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 10,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.34757572412490845
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 9,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.34757572412490845
+      }
+    ]
+  },
+  {
+    "name": "round2/legacy_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 5,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.13068446516990662
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 9,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.3006395697593689
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 9,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.38002392649650574
+      }
+    ]
+  },
+  {
+    "name": "round2/loss_only_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 8,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.3263623118400574
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 10,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.3263623118400574
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 7,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.3556695878505707
+      }
+    ]
+  },
+  {
+    "name": "round2/loss_only_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 4,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.15712790191173553
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 6,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.33608514070510864
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 6,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.41072651743888855
+      }
+    ]
+  },
+  {
+    "name": "round2/loss_only_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 3,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.23769985139369965
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 7,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.3327460289001465
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 7,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.3697258532047272
+      }
+    ]
+  },
+  {
+    "name": "round2/physics_only_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 3,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.1984521597623825
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 4,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.3020765483379364
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 4,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.3782177269458771
+      }
+    ]
+  },
+  {
+    "name": "round2/physics_only_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 4,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.22051388025283813
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 4,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.2757410407066345
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 4,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.32505643367767334
+      }
+    ]
+  },
+  {
+    "name": "round2/schedule_only_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 3,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.11417428404092789
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 4,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.2977485656738281
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 5,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.34990495443344116
+      }
+    ]
+  },
+  {
+    "name": "round2/schedule_only_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08649475127458572
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 7,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.3325716257095337
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 6,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.3629114031791687
+      }
+    ]
+  },
+  {
+    "name": "round2/schedule_only_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 2,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.1670575886964798
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 7,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.30954065918922424
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 7,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.31419795751571655
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_global_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 2,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.19765344262123108
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 6,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.2705747187137604
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 4,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.2828703820705414
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_global_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 3,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.17954236268997192
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 6,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.42191076278686523
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 7,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.42191076278686523
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_global_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 9,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.13838542997837067
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 10,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.3308491110801697
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 7,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.37229663133621216
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/loss_only_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 3,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.2272067815065384
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 5,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.3556695878505707
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 6,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.3725220859050751
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/loss_only_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08649475127458572
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 4,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.2538318336009979
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 6,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.3697258532047272
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/loss_only_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 4,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.32616353034973145
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 8,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.32616353034973145
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 8,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.32720014452934265
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_local_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.10261291265487671
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.15626847743988037
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 1,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.17101557552814484
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_local_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.09390689432621002
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.15109620988368988
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.18088147044181824
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_local_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.09642694890499115
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.14235876500606537
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.2192641794681549
+      }
+    ]
+  },
+  {
+    "name": "round2/physics_only_2_steps32",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 5,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.15775932371616364
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 9,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.3095405101776123
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": false,
+        "mass_error": 0.0,
+        "disconnected_clusters": 5,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.32169580459594727
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_geometry_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08063614368438721
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.08291216194629669
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.14304617047309875
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_geometry_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08063614368438721
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.08291216194629669
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.14304617047309875
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_geometry_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08063614368438721
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.08291216194629669
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.14304617047309875
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_random_0",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.10531716048717499
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.1669618934392929
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.1669618934392929
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_random_1",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.09982416778802872
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.117088183760643
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.12735985219478607
+      }
+    ]
+  },
+  {
+    "name": "round2_aligned/full_random_2",
+    "trained_device": "cpu",
+    "levels": [
+      {
+        "level": 0,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 68,
+        "max_cluster_diameter_m": 0.0
+      },
+      {
+        "level": 1,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 41,
+        "max_cluster_diameter_m": 0.08218055218458176
+      },
+      {
+        "level": 2,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 27,
+        "max_cluster_diameter_m": 0.12218151986598969
+      },
+      {
+        "level": 3,
+        "checkpoint_position_max_abs_m": 0.0,
+        "equals_last_supervised_map": true,
+        "mass_error": 0.0,
+        "disconnected_clusters": 0,
+        "clusters": 20,
+        "max_cluster_diameter_m": 0.14045262336730957
+      }
+    ]
+  }
+]

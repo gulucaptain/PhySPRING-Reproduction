@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "Please cite the original PhySPRING paper when using its method; this metadata describes the independent software."
+title: "PhySPRING: Independent Mac Reproduction and Axial-Reduction Audit"
+type: software
+authors:
+  - family-names: Zhao
+    given-names: Haoyu
+repository-code: "https://github.com/gulucaptain/PhySPRING-Reproduction"
+license: MIT
+version: 0.1.0

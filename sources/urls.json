@@ -1,0 +1,15 @@
+{
+  "paper": "https://arxiv.org/html/2605.07687v1",
+  "project": "https://merealtea.github.io/PhySpringWeb/",
+  "PhysTwin_commit": "81c718790a37e5e0102eb77af2c6edd34a9db25f",
+  "PhysTwin_repository": "https://github.com/Jianghanxiao/PhysTwin",
+  "PhysTwin_files": {
+    "configs/cloth.yaml": "https://github.com/Jianghanxiao/PhysTwin/blob/81c718790a37e5e0102eb77af2c6edd34a9db25f/configs/cloth.yaml",
+    "configs/real.yaml": "https://github.com/Jianghanxiao/PhysTwin/blob/81c718790a37e5e0102eb77af2c6edd34a9db25f/configs/real.yaml",
+    "qqtt/data/real_data.py": "https://github.com/Jianghanxiao/PhysTwin/blob/81c718790a37e5e0102eb77af2c6edd34a9db25f/qqtt/data/real_data.py",
+    "qqtt/model/diff_simulator/spring_mass_warp.py": "https://github.com/Jianghanxiao/PhysTwin/blob/81c718790a37e5e0102eb77af2c6edd34a9db25f/qqtt/model/diff_simulator/spring_mass_warp.py",
+    "qqtt/utils/config.py": "https://github.com/Jianghanxiao/PhysTwin/blob/81c718790a37e5e0102eb77af2c6edd34a9db25f/qqtt/utils/config.py"
+  },
+  "data": "https://huggingface.co/datasets/Jianghanxiao/PhysTwin",
+  "note": "Third-party file hashes in manifest.json refer to local research copies, not distributed files."
+}

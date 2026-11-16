@@ -1,0 +1,326 @@
+[
+  {
+    "kind": "cloth",
+    "strategy": "learned",
+    "level": 0,
+    "n": 3,
+    "track_mean_mm": 15.07541894291838,
+    "track_std_mm": 12.264151997129495,
+    "speedup": 1.0
+  },
+  {
+    "kind": "cloth",
+    "strategy": "learned",
+    "level": 1,
+    "n": 3,
+    "track_mean_mm": 89.0861488878727,
+    "track_std_mm": 26.029114969151788,
+    "speedup": 1.4591189219150504
+  },
+  {
+    "kind": "cloth",
+    "strategy": "learned",
+    "level": 2,
+    "n": 3,
+    "track_mean_mm": 110.02702017625172,
+    "track_std_mm": 41.54080476800185,
+    "speedup": 1.5485278333882304
+  },
+  {
+    "kind": "cloth",
+    "strategy": "learned",
+    "level": 3,
+    "n": 3,
+    "track_mean_mm": 113.21848382552464,
+    "track_std_mm": 28.435622130652398,
+    "speedup": 1.5906201283668002
+  },
+  {
+    "kind": "cloth",
+    "strategy": "geometry",
+    "level": 0,
+    "n": 3,
+    "track_mean_mm": 11.610983948533734,
+    "track_std_mm": 7.902970900977773,
+    "speedup": 1.0
+  },
+  {
+    "kind": "cloth",
+    "strategy": "geometry",
+    "level": 1,
+    "n": 3,
+    "track_mean_mm": 37.79082000255585,
+    "track_std_mm": 3.9734369768854814,
+    "speedup": 1.2205053536908677
+  },
+  {
+    "kind": "cloth",
+    "strategy": "geometry",
+    "level": 2,
+    "n": 3,
+    "track_mean_mm": 76.56589150428772,
+    "track_std_mm": 19.52170711960489,
+    "speedup": 1.4101630554671434
+  },
+  {
+    "kind": "cloth",
+    "strategy": "geometry",
+    "level": 3,
+    "n": 3,
+    "track_mean_mm": 86.69962733983994,
+    "track_std_mm": 2.103921279610261,
+    "speedup": 1.5170994555841348
+  },
+  {
+    "kind": "cloth",
+    "strategy": "random",
+    "level": 0,
+    "n": 3,
+    "track_mean_mm": 6.899635617931684,
+    "track_std_mm": 3.72403090169867,
+    "speedup": 1.0
+  },
+  {
+    "kind": "cloth",
+    "strategy": "random",
+    "level": 1,
+    "n": 3,
+    "track_mean_mm": 137.0487113793691,
+    "track_std_mm": 8.761395543600493,
+    "speedup": 1.4619108708490887
+  },
+  {
+    "kind": "cloth",
+    "strategy": "random",
+    "level": 2,
+    "n": 3,
+    "track_mean_mm": 178.75811954339346,
+    "track_std_mm": 19.032605270858753,
+    "speedup": 1.4783672400334789
+  },
+  {
+    "kind": "cloth",
+    "strategy": "random",
+    "level": 3,
+    "n": 3,
+    "track_mean_mm": 161.93862756093344,
+    "track_std_mm": 8.966958280502341,
+    "speedup": 1.6465392029625419
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "learned",
+    "level": 0,
+    "n": 3,
+    "track_mean_mm": 20.8370058486859,
+    "track_std_mm": 6.726119415268946,
+    "speedup": 1.0
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "learned",
+    "level": 1,
+    "n": 3,
+    "track_mean_mm": 25.966260582208633,
+    "track_std_mm": 0.5140950399972471,
+    "speedup": 1.6324689932509038
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "learned",
+    "level": 2,
+    "n": 3,
+    "track_mean_mm": 28.80662555495898,
+    "track_std_mm": 2.243862026857301,
+    "speedup": 1.9300186969132935
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "learned",
+    "level": 3,
+    "n": 3,
+    "track_mean_mm": 40.27630885442098,
+    "track_std_mm": 11.883750491634295,
+    "speedup": 2.012260364939298
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "geometry",
+    "level": 0,
+    "n": 3,
+    "track_mean_mm": 23.600647846857708,
+    "track_std_mm": 6.182742536758489,
+    "speedup": 1.0
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "geometry",
+    "level": 1,
+    "n": 3,
+    "track_mean_mm": 18.791428456703823,
+    "track_std_mm": 2.4887427964653472,
+    "speedup": 1.6485917151094114
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "geometry",
+    "level": 2,
+    "n": 3,
+    "track_mean_mm": 24.99636138478915,
+    "track_std_mm": 4.383449828326039,
+    "speedup": 1.9016177827648395
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "geometry",
+    "level": 3,
+    "n": 3,
+    "track_mean_mm": 21.942027534047764,
+    "track_std_mm": 2.59820458683004,
+    "speedup": 2.014914411163469
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "random",
+    "level": 0,
+    "n": 3,
+    "track_mean_mm": 21.262553210059803,
+    "track_std_mm": 5.622635698283736,
+    "speedup": 1.0
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "random",
+    "level": 1,
+    "n": 3,
+    "track_mean_mm": 28.741978108882904,
+    "track_std_mm": 6.155157011710559,
+    "speedup": 1.5413265149726756
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "random",
+    "level": 2,
+    "n": 3,
+    "track_mean_mm": 36.87744836012522,
+    "track_std_mm": 7.706944165541105,
+    "speedup": 1.8422283792881038
+  },
+  {
+    "kind": "real_cloth_subset",
+    "strategy": "random",
+    "level": 3,
+    "n": 3,
+    "track_mean_mm": 32.923691595594086,
+    "track_std_mm": 3.362868302455484,
+    "speedup": 2.2997204128637705
+  },
+  {
+    "kind": "rope",
+    "strategy": "learned",
+    "level": 0,
+    "n": 3,
+    "track_mean_mm": 35.78536957502365,
+    "track_std_mm": 2.3268592757899684,
+    "speedup": 1.0
+  },
+  {
+    "kind": "rope",
+    "strategy": "learned",
+    "level": 1,
+    "n": 3,
+    "track_mean_mm": 109.77489252885182,
+    "track_std_mm": 6.408568015086734,
+    "speedup": 1.28658062181919
+  },
+  {
+    "kind": "rope",
+    "strategy": "learned",
+    "level": 2,
+    "n": 3,
+    "track_mean_mm": 119.90104118982951,
+    "track_std_mm": 21.175880422573336,
+    "speedup": 1.4177093006374613
+  },
+  {
+    "kind": "rope",
+    "strategy": "learned",
+    "level": 3,
+    "n": 3,
+    "track_mean_mm": 154.04411653677622,
+    "track_std_mm": 19.638017086554957,
+    "speedup": 1.416286161998208
+  },
+  {
+    "kind": "rope",
+    "strategy": "geometry",
+    "level": 0,
+    "n": 3,
+    "track_mean_mm": 37.75967905918757,
+    "track_std_mm": 4.767396490562139,
+    "speedup": 1.0
+  },
+  {
+    "kind": "rope",
+    "strategy": "geometry",
+    "level": 1,
+    "n": 3,
+    "track_mean_mm": 64.30622686942418,
+    "track_std_mm": 18.24960241426759,
+    "speedup": 1.2979888633681322
+  },
+  {
+    "kind": "rope",
+    "strategy": "geometry",
+    "level": 2,
+    "n": 3,
+    "track_mean_mm": 67.59710609912872,
+    "track_std_mm": 15.921665583535917,
+    "speedup": 1.4141820554180249
+  },
+  {
+    "kind": "rope",
+    "strategy": "geometry",
+    "level": 3,
+    "n": 3,
+    "track_mean_mm": 115.69806933403015,
+    "track_std_mm": 12.101240214015602,
+    "speedup": 1.279304128698772
+  },
+  {
+    "kind": "rope",
+    "strategy": "random",
+    "level": 0,
+    "n": 3,
+    "track_mean_mm": 42.091875026623406,
+    "track_std_mm": 11.027855196472188,
+    "speedup": 1.0
+  },
+  {
+    "kind": "rope",
+    "strategy": "random",
+    "level": 1,
+    "n": 3,
+    "track_mean_mm": 162.74023552735648,
+    "track_std_mm": 28.897931470185625,
+    "speedup": 1.269210651792254
+  },
+  {
+    "kind": "rope",
+    "strategy": "random",
+    "level": 2,
+    "n": 3,
+    "track_mean_mm": 152.43754784266153,
+    "track_std_mm": 18.30401758889383,
+    "speedup": 1.4130531074360029
+  },
+  {
+    "kind": "rope",
+    "strategy": "random",
+    "level": 3,
+    "n": 3,
+    "track_mean_mm": 159.98142957687378,
+    "track_std_mm": 9.38284896474649,
+    "speedup": 1.4654286406815527
+  }
+]

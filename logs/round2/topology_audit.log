@@ -1,0 +1,4 @@
+./scripts/audit_topologies.py:13: UserWarning: Converting a tensor with requires_grad=True to a scalar may lead to unexpected behavior.
+Consider using tensor.detach() first. (Triggered internally at /Users/runner/work/pytorch/pytorch/torch/csrc/autograd/generated/python_variable_methods.cpp:821.)
+  levels=[dict(level=l,changed_node_labels=int((a.argmax(-1)!=b.argmax(-1)).sum()),max_assignment_difference=float((a-b).abs().max())) for l,(a,b) in enumerate(zip(maps,saved['maps']))]
+36 topology audits saved

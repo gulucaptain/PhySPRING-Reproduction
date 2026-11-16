@@ -1,0 +1,30 @@
+[
+  {
+    "path": "data/different_types/double_lift_cloth_1/final_data.pkl",
+    "bytes": 27607046,
+    "sha256": "c823c86c5d2b29c289287c46ad1c6fa5c50e7c9c84b5e61f21fe2001b9dc0a88",
+    "source": "https://huggingface.co/datasets/Jianghanxiao/PhysTwin/resolve/main/data.zip",
+    "member": "data/different_types/double_lift_cloth_1/final_data.pkl"
+  },
+  {
+    "path": "data/different_types/double_lift_cloth_1/gt_track_3d.pkl",
+    "bytes": 25210,
+    "sha256": "6702a80b7c09d7628a05acd1951fd186373ea3df9e137416b06ebc3ff8523d9a",
+    "source": "https://huggingface.co/datasets/Jianghanxiao/PhysTwin/resolve/main/data.zip",
+    "member": "data/different_types/double_lift_cloth_1/gt_track_3d.pkl"
+  },
+  {
+    "path": "data/different_types/double_lift_cloth_1/metadata.json",
+    "bytes": 500,
+    "sha256": "b9dee11493f84a1c383c31cad2d07e9ba2dd0f42936a43ccfeef1cd61c5246ba",
+    "source": "https://huggingface.co/datasets/Jianghanxiao/PhysTwin/resolve/main/data.zip",
+    "member": "data/different_types/double_lift_cloth_1/metadata.json"
+  },
+  {
+    "path": "data/different_types/double_lift_cloth_1/split.json",
+    "bytes": 55,
+    "sha256": "c0a2923d97276e03d1b28faa3e7f17776ddc7c80376debeca2e4a9d91aaa992a",
+    "source": "https://huggingface.co/datasets/Jianghanxiao/PhysTwin/resolve/main/data.zip",
+    "member": "data/different_types/double_lift_cloth_1/split.json"
+  }
+]

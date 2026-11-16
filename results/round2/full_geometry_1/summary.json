@@ -1,0 +1,139 @@
+{
+  "baselines": {
+    "initial_untrained": {
+      "track_m": 0.028520287945866585,
+      "cd_m": 0.026493579149246216,
+      "max_error_m": 0.29319193959236145,
+      "valid_points": 1021,
+      "valid_frames": 34
+    },
+    "static": {
+      "track_m": 0.046612679958343506,
+      "cd_m": 0.04341371729969978,
+      "max_error_m": 0.2900431454181671,
+      "valid_points": 1021,
+      "valid_frames": 34
+    }
+  },
+  "status": "real-data subset; not full paper benchmark",
+  "config": {
+    "output": "./results/round2/full_geometry_1",
+    "device": "cpu",
+    "strategy": "geometry",
+    "seed": 1,
+    "epochs": 80,
+    "size": 5,
+    "frames": 24,
+    "batch": 3,
+    "substeps": 16,
+    "hidden": 128,
+    "threads": 1,
+    "kind": "cloth",
+    "data": "./data/double_lift_cloth_1_64_round2.pt",
+    "resume": null,
+    "physics": "reference",
+    "loss": "reference",
+    "schedule": "deterministic_tail",
+    "heads": "additive",
+    "merge": "global",
+    "legacy_model": false,
+    "self_collision": 0.0,
+    "checkpoint_frames": false,
+    "revision": 2,
+    "train_frames": 80,
+    "dt": 0.033350000000000005,
+    "data_seed": 0,
+    "train_split": "data-specified or first half; future withheld",
+    "torch": "2.15.0",
+    "python": "3.12.13",
+    "machine": "arm64",
+    "actual_nodes": 68,
+    "actual_batch": 1,
+    "actual_frames": 115,
+    "source_kind": "real_cloth_subset"
+  },
+  "training_s": 258.1876324590994,
+  "mps_driver_peak_bytes": 0,
+  "levels": [
+    {
+      "level": 0,
+      "nodes": 68,
+      "train": {
+        "track_m": 0.003870164044201374,
+        "cd_m": 0.00845879502594471,
+        "max_error_m": 0.05347917973995209,
+        "valid_points": 3902,
+        "valid_frames": 80
+      },
+      "future": {
+        "track_m": 0.02753349579870701,
+        "cd_m": 0.024633869528770447,
+        "max_error_m": 0.2913687229156494,
+        "valid_points": 1021,
+        "valid_frames": 34
+      },
+      "rollout_s": 0.6721411529773226,
+      "aggregate_fps": 171.0950140317922
+    },
+    {
+      "level": 1,
+      "nodes": 41,
+      "train": {
+        "track_m": 0.004215744324028492,
+        "cd_m": 0.00887908786535263,
+        "max_error_m": 0.06268027424812317,
+        "valid_points": 3902,
+        "valid_frames": 80
+      },
+      "future": {
+        "track_m": 0.02867817133665085,
+        "cd_m": 0.025618253275752068,
+        "max_error_m": 0.29083436727523804,
+        "valid_points": 1021,
+        "valid_frames": 34
+      },
+      "rollout_s": 0.4059105140234654,
+      "aggregate_fps": 283.3136763571291
+    },
+    {
+      "level": 2,
+      "nodes": 27,
+      "train": {
+        "track_m": 0.004565224517136812,
+        "cd_m": 0.009048504754900932,
+        "max_error_m": 0.06057937070727348,
+        "valid_points": 3902,
+        "valid_frames": 80
+      },
+      "future": {
+        "track_m": 0.028384054079651833,
+        "cd_m": 0.026249654591083527,
+        "max_error_m": 0.29020869731903076,
+        "valid_points": 1021,
+        "valid_frames": 34
+      },
+      "rollout_s": 0.3296986250206828,
+      "aggregate_fps": 348.8033958066576
+    },
+    {
+      "level": 3,
+      "nodes": 20,
+      "train": {
+        "track_m": 0.005002337042242289,
+        "cd_m": 0.009492584504187107,
+        "max_error_m": 0.07902443408966064,
+        "valid_points": 3902,
+        "valid_frames": 80
+      },
+      "future": {
+        "track_m": 0.02828395739197731,
+        "cd_m": 0.02860541269183159,
+        "max_error_m": 0.2757503390312195,
+        "valid_points": 1021,
+        "valid_frames": 34
+      },
+      "rollout_s": 0.2874837499887993,
+      "aggregate_fps": 400.0226099891926
+    }
+  ]
+}

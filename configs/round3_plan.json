@@ -1,0 +1,141 @@
+{
+  "workers": 6,
+  "epochs": 80,
+  "substeps": 16,
+  "hidden": 128,
+  "projection": "full",
+  "plan": [
+    {
+      "name": "full_global",
+      "seed": 0,
+      "options": {
+        "merge": "global"
+      }
+    },
+    {
+      "name": "full_global",
+      "seed": 1,
+      "options": {
+        "merge": "global"
+      }
+    },
+    {
+      "name": "full_global",
+      "seed": 2,
+      "options": {
+        "merge": "global"
+      }
+    },
+    {
+      "name": "full_local",
+      "seed": 0,
+      "options": {
+        "merge": "local"
+      }
+    },
+    {
+      "name": "full_local",
+      "seed": 1,
+      "options": {
+        "merge": "local"
+      }
+    },
+    {
+      "name": "full_local",
+      "seed": 2,
+      "options": {
+        "merge": "local"
+      }
+    },
+    {
+      "name": "full_geometry",
+      "seed": 0,
+      "options": {
+        "strategy": "geometry"
+      }
+    },
+    {
+      "name": "full_geometry",
+      "seed": 1,
+      "options": {
+        "strategy": "geometry"
+      }
+    },
+    {
+      "name": "full_geometry",
+      "seed": 2,
+      "options": {
+        "strategy": "geometry"
+      }
+    },
+    {
+      "name": "full_random",
+      "seed": 0,
+      "options": {
+        "strategy": "random"
+      }
+    },
+    {
+      "name": "full_random",
+      "seed": 1,
+      "options": {
+        "strategy": "random"
+      }
+    },
+    {
+      "name": "full_random",
+      "seed": 2,
+      "options": {
+        "strategy": "random"
+      }
+    },
+    {
+      "name": "active_global",
+      "seed": 0,
+      "options": {
+        "merge": "global",
+        "supervision": "active"
+      }
+    },
+    {
+      "name": "active_global",
+      "seed": 1,
+      "options": {
+        "merge": "global",
+        "supervision": "active"
+      }
+    },
+    {
+      "name": "active_global",
+      "seed": 2,
+      "options": {
+        "merge": "global",
+        "supervision": "active"
+      }
+    },
+    {
+      "name": "active_local",
+      "seed": 0,
+      "options": {
+        "merge": "local",
+        "supervision": "active"
+      }
+    },
+    {
+      "name": "active_local",
+      "seed": 1,
+      "options": {
+        "merge": "local",
+        "supervision": "active"
+      }
+    },
+    {
+      "name": "active_local",
+      "seed": 2,
+      "options": {
+        "merge": "local",
+        "supervision": "active"
+      }
+    }
+  ]
+}

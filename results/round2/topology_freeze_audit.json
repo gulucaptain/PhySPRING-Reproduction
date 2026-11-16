@@ -1,0 +1,1042 @@
+[
+  {
+    "run": "results/round2/full_geometry_0",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/full_geometry_1",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/full_geometry_2",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/full_global_0",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/full_global_1",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/full_global_2",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/full_local_0",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/full_local_1",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/full_local_2",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/full_random_0",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/full_random_1",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/full_random_2",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/gpu_144",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/legacy_0",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 22,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/legacy_1",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 15,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/legacy_2",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 22,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/loss_only_0",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 20,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/loss_only_1",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 12,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/loss_only_2",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 23,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/physics_only_0",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 9,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/physics_only_1",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 11,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/physics_only_2_steps32",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 22,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/schedule_only_0",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/schedule_only_1",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2/schedule_only_2",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_geometry_0",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_geometry_1",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_geometry_2",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_global_0",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_global_1",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_global_2",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_local_0",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_local_1",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_local_2",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_random_0",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_random_1",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/full_random_2",
+    "schedule": "deterministic_tail",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/loss_only_0",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 20,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/loss_only_1",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 11,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  },
+  {
+    "run": "results/round2_aligned/loss_only_2",
+    "schedule": "legacy",
+    "levels": [
+      {
+        "level": 0,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 1,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 2,
+        "changed_node_labels": 0,
+        "max_assignment_difference": 0.0
+      },
+      {
+        "level": 3,
+        "changed_node_labels": 14,
+        "max_assignment_difference": 1.0
+      }
+    ]
+  }
+]

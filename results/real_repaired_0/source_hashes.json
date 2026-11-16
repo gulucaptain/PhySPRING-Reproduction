@@ -1,0 +1,9 @@
+{
+  "src/physpring/__init__.py": "b001b2d27f4f82ba46fa4cf39d547b7f3795314c1b51d537606ea2316636d357",
+  "src/physpring/model.py": "dea98a840ec5223dd9f0f8d0b17949215765a13ac8ab343c3ef13e94c025a11e",
+  "src/physpring/experiment.py": "504e94281500029e1e842cceb30fab72142791abcf5111fc0055274a9a2441ba",
+  "src/physpring/physics.py": "13f7645de6736eb99811d1651ca4adf98e30a5e8b8329666967906eb55186633",
+  "src/physpring/evaluate.py": "41f1dbd16faf5d8935f406d2793e6e0591190ebd90e3af3bbac2f8aa98eaf2e9",
+  "src/physpring/data.py": "2427772bc33b9fe105e8fc723b14f00f72ebccf609ed86f0bd1dbf4b78618cdb",
+  "src/physpring/numerics.py": "5919ea05a3d85ed39cb27d9df78608e3fa4d39cdc73816a0c40ca7d6fae02416"
+}

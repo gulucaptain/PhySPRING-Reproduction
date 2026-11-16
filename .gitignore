@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+.DS_Store
+.cache/
+data/
+*.pt
+*.npz
+*.pkl
+sources/*.html
+sources/*.pdf
+sources/paper.txt
+sources/phystwin_*
+results/rebuilt*/
+results/my_*/
+logs/rebuilt*/

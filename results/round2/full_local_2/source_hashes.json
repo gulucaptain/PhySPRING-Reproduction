@@ -1,0 +1,16 @@
+{
+  "src/physpring/reduction_audit.py": "7fa6060630ff40a84acf032cbaf5c5610e2151738f18bfdb643ccd5fcb46faea",
+  "src/physpring/experiment_v2.py": "4f6f522c4113304be3552d8457f82ef047b7b4155ce5cbc75a72fe24fd9e002c",
+  "src/physpring/__init__.py": "b001b2d27f4f82ba46fa4cf39d547b7f3795314c1b51d537606ea2316636d357",
+  "src/physpring/evaluate_v2.py": "bda86e3d196fc1468595ae1fb91bfea681455526a3bb6403268410d956402377",
+  "src/physpring/model.py": "dea98a840ec5223dd9f0f8d0b17949215765a13ac8ab343c3ef13e94c025a11e",
+  "src/physpring/experiment.py": "297af97f88bfb621940133e3ff32cf48d24a6a77efecd03277f5768bf1fcd27a",
+  "src/physpring/physics.py": "13f7645de6736eb99811d1651ca4adf98e30a5e8b8329666967906eb55186633",
+  "src/physpring/evaluate.py": "41f1dbd16faf5d8935f406d2793e6e0591190ebd90e3af3bbac2f8aa98eaf2e9",
+  "src/physpring/schedule.py": "81eaf81a30523ecb4546720d103675cfa7e912606f3fd691df417bf79e12e4d9",
+  "src/physpring/physics_v2.py": "0a2dd51f9b47dcda7dda1a81d1b9f3011e4fc3629d536b62961081aa45af5e68",
+  "src/physpring/losses_v2.py": "8e07345d877d81a2c5de731d65dd403db6b33c09054f2fab6df52ae234163691",
+  "src/physpring/data.py": "2427772bc33b9fe105e8fc723b14f00f72ebccf609ed86f0bd1dbf4b78618cdb",
+  "src/physpring/numerics.py": "5919ea05a3d85ed39cb27d9df78608e3fa4d39cdc73816a0c40ca7d6fae02416",
+  "src/physpring/model_v2.py": "234c56e01f2bd750ddff04daa4f4fba110e7e76585f09cef3f44c76a98f54cf7"
+}

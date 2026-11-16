@@ -1,0 +1,98 @@
+[
+  {
+    "strategy": "full_global",
+    "seed": 0,
+    "diagonal_row_simplex_gradient_max": 1.5921452045440674,
+    "diagonal_constant_forward_error": 5.960464477539063e-08,
+    "full_row_simplex_gradient_max": 1.1920928955078125e-07,
+    "full_constant_forward_error": 2.9802322387695312e-08
+  },
+  {
+    "strategy": "full_global",
+    "seed": 1,
+    "diagonal_row_simplex_gradient_max": 1.7637438774108887,
+    "diagonal_constant_forward_error": 5.960464477539063e-08,
+    "full_row_simplex_gradient_max": 1.1920928955078125e-07,
+    "full_constant_forward_error": 5.960464477539063e-08
+  },
+  {
+    "strategy": "full_global",
+    "seed": 2,
+    "diagonal_row_simplex_gradient_max": 1.7128089666366577,
+    "diagonal_constant_forward_error": 5.960464477539063e-08,
+    "full_row_simplex_gradient_max": 1.1920928955078125e-07,
+    "full_constant_forward_error": 2.9802322387695312e-08
+  },
+  {
+    "strategy": "full_local",
+    "seed": 0,
+    "diagonal_row_simplex_gradient_max": 1.6275196075439453,
+    "diagonal_constant_forward_error": 2.9802322387695312e-08,
+    "full_row_simplex_gradient_max": 2.384185791015625e-07,
+    "full_constant_forward_error": 2.9802322387695312e-08
+  },
+  {
+    "strategy": "full_local",
+    "seed": 1,
+    "diagonal_row_simplex_gradient_max": 1.573953628540039,
+    "diagonal_constant_forward_error": 2.9802322387695312e-08,
+    "full_row_simplex_gradient_max": 2.384185791015625e-07,
+    "full_constant_forward_error": 2.9802322387695312e-08
+  },
+  {
+    "strategy": "full_local",
+    "seed": 2,
+    "diagonal_row_simplex_gradient_max": 1.5569312572479248,
+    "diagonal_constant_forward_error": 2.9802322387695312e-08,
+    "full_row_simplex_gradient_max": 1.1920928955078125e-07,
+    "full_constant_forward_error": 2.9802322387695312e-08
+  },
+  {
+    "strategy": "full_geometry",
+    "seed": 0,
+    "diagonal_row_simplex_gradient_max": 1.5480536222457886,
+    "diagonal_constant_forward_error": 2.9802322387695312e-08,
+    "full_row_simplex_gradient_max": 1.1920928955078125e-07,
+    "full_constant_forward_error": 2.9802322387695312e-08
+  },
+  {
+    "strategy": "full_geometry",
+    "seed": 1,
+    "diagonal_row_simplex_gradient_max": 1.5480536222457886,
+    "diagonal_constant_forward_error": 2.9802322387695312e-08,
+    "full_row_simplex_gradient_max": 1.1920928955078125e-07,
+    "full_constant_forward_error": 2.9802322387695312e-08
+  },
+  {
+    "strategy": "full_geometry",
+    "seed": 2,
+    "diagonal_row_simplex_gradient_max": 1.5480536222457886,
+    "diagonal_constant_forward_error": 2.9802322387695312e-08,
+    "full_row_simplex_gradient_max": 1.1920928955078125e-07,
+    "full_constant_forward_error": 2.9802322387695312e-08
+  },
+  {
+    "strategy": "full_random",
+    "seed": 0,
+    "diagonal_row_simplex_gradient_max": 1.5522822141647339,
+    "diagonal_constant_forward_error": 2.9802322387695312e-08,
+    "full_row_simplex_gradient_max": 2.384185791015625e-07,
+    "full_constant_forward_error": 2.9802322387695312e-08
+  },
+  {
+    "strategy": "full_random",
+    "seed": 1,
+    "diagonal_row_simplex_gradient_max": 1.4990286827087402,
+    "diagonal_constant_forward_error": 2.9802322387695312e-08,
+    "full_row_simplex_gradient_max": 2.384185791015625e-07,
+    "full_constant_forward_error": 2.9802322387695312e-08
+  },
+  {
+    "strategy": "full_random",
+    "seed": 2,
+    "diagonal_row_simplex_gradient_max": 1.5035874843597412,
+    "diagonal_constant_forward_error": 0.0,
+    "full_row_simplex_gradient_max": 1.1920928955078125e-07,
+    "full_constant_forward_error": 0.0
+  }
+]

@@ -1,0 +1,6 @@
+active_global_0 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 6, 'clusters': 20, 'max_cluster_diameter_m': 0.36273327469825745}
+active_global_1 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 10, 'clusters': 20, 'max_cluster_diameter_m': 0.34604665637016296}
+active_global_2 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 6, 'clusters': 20, 'max_cluster_diameter_m': 0.35734012722969055}
+active_local_0 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 0, 'clusters': 20, 'max_cluster_diameter_m': 0.24082328379154205}
+active_local_1 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 0, 'clusters': 20, 'max_cluster_diameter_m': 0.2192641794681549}
+active_local_2 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 0, 'clusters': 20, 'max_cluster_diameter_m': 0.20703856647014618}

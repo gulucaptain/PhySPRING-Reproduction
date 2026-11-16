@@ -1,0 +1,129 @@
+{
+  "baselines": {
+    "initial_untrained": {
+      "track_m": 0.07365935295820236,
+      "cd_m": 0.03512406721711159,
+      "max_error_m": 0.19470934569835663,
+      "valid_points": 27648,
+      "valid_frames": 192
+    },
+    "static": {
+      "track_m": 0.538205623626709,
+      "cd_m": 0.455670565366745,
+      "max_error_m": 0.6651538014411926,
+      "valid_points": 27648,
+      "valid_frames": 192
+    }
+  },
+  "status": "procedural diagnostic; not paper benchmark",
+  "config": {
+    "output": "results/gpu_large",
+    "device": "mps",
+    "strategy": "learned",
+    "seed": 0,
+    "epochs": 80,
+    "size": 12,
+    "frames": 24,
+    "batch": 16,
+    "substeps": 8,
+    "hidden": 128,
+    "threads": 1,
+    "kind": "cloth",
+    "data": null,
+    "train_frames": 12,
+    "dt": 0.03333333333333333,
+    "data_seed": 123,
+    "train_split": "data-specified or first half; future withheld",
+    "torch": "2.15.0",
+    "python": "3.12.13",
+    "machine": "arm64",
+    "actual_nodes": 144,
+    "actual_batch": 16,
+    "actual_frames": 24,
+    "source_kind": "cloth"
+  },
+  "training_s": 69.79309104196727,
+  "mps_driver_peak_bytes": 2580037632,
+  "levels": [
+    {
+      "level": 0,
+      "nodes": 144,
+      "train": {
+        "track_m": 0.0028066844679415226,
+        "cd_m": 0.002806698903441429,
+        "max_error_m": 0.01709984801709652,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "future": {
+        "track_m": 0.012195027433335781,
+        "cd_m": 0.012195042334496975,
+        "max_error_m": 0.029605697840452194,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "rollout_s": 0.4317766110179946,
+      "aggregate_fps": 889.3487748089175
+    },
+    {
+      "level": 1,
+      "nodes": 86,
+      "train": {
+        "track_m": 0.007887054234743118,
+        "cd_m": 0.007612048648297787,
+        "max_error_m": 0.12179767340421677,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "future": {
+        "track_m": 0.026184746995568275,
+        "cd_m": 0.023941529914736748,
+        "max_error_m": 0.17001573741436005,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "rollout_s": 0.17319954167275378,
+      "aggregate_fps": 2217.0959362325348
+    },
+    {
+      "level": 2,
+      "nodes": 58,
+      "train": {
+        "track_m": 0.011124477721750736,
+        "cd_m": 0.01016910932958126,
+        "max_error_m": 0.1324158012866974,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "future": {
+        "track_m": 0.03454085439443588,
+        "cd_m": 0.02884088084101677,
+        "max_error_m": 0.19908486306667328,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "rollout_s": 0.10185962500205885,
+      "aggregate_fps": 3769.894106641747
+    },
+    {
+      "level": 3,
+      "nodes": 43,
+      "train": {
+        "track_m": 0.014319163747131824,
+        "cd_m": 0.012291427701711655,
+        "max_error_m": 0.18872912228107452,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "future": {
+        "track_m": 0.058686401695013046,
+        "cd_m": 0.04143731668591499,
+        "max_error_m": 0.2745417654514313,
+        "valid_points": 27648,
+        "valid_frames": 192
+      },
+      "rollout_s": 0.0709896666618685,
+      "aggregate_fps": 5409.237964576362
+    }
+  ]
+}

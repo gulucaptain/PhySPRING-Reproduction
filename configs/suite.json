@@ -1,0 +1,101 @@
+{
+  "workers": 6,
+  "epochs": 80,
+  "size": 6,
+  "frames": 32,
+  "batch": 3,
+  "substeps": 16,
+  "hidden": 128,
+  "runs": [
+    {
+      "kind": "cloth",
+      "strategy": "learned",
+      "seed": 0
+    },
+    {
+      "kind": "cloth",
+      "strategy": "learned",
+      "seed": 1
+    },
+    {
+      "kind": "cloth",
+      "strategy": "learned",
+      "seed": 2
+    },
+    {
+      "kind": "cloth",
+      "strategy": "geometry",
+      "seed": 0
+    },
+    {
+      "kind": "cloth",
+      "strategy": "geometry",
+      "seed": 1
+    },
+    {
+      "kind": "cloth",
+      "strategy": "geometry",
+      "seed": 2
+    },
+    {
+      "kind": "cloth",
+      "strategy": "random",
+      "seed": 0
+    },
+    {
+      "kind": "cloth",
+      "strategy": "random",
+      "seed": 1
+    },
+    {
+      "kind": "cloth",
+      "strategy": "random",
+      "seed": 2
+    },
+    {
+      "kind": "rope",
+      "strategy": "learned",
+      "seed": 0
+    },
+    {
+      "kind": "rope",
+      "strategy": "learned",
+      "seed": 1
+    },
+    {
+      "kind": "rope",
+      "strategy": "learned",
+      "seed": 2
+    },
+    {
+      "kind": "rope",
+      "strategy": "geometry",
+      "seed": 0
+    },
+    {
+      "kind": "rope",
+      "strategy": "geometry",
+      "seed": 1
+    },
+    {
+      "kind": "rope",
+      "strategy": "geometry",
+      "seed": 2
+    },
+    {
+      "kind": "rope",
+      "strategy": "random",
+      "seed": 0
+    },
+    {
+      "kind": "rope",
+      "strategy": "random",
+      "seed": 1
+    },
+    {
+      "kind": "rope",
+      "strategy": "random",
+      "seed": 2
+    }
+  ]
+}

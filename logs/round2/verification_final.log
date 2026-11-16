@@ -1,0 +1,7 @@
+physics_only_2_steps32 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': False, 'mass_error': 0.0, 'disconnected_clusters': 5, 'clusters': 20, 'max_cluster_diameter_m': 0.32169580459594727}
+full_geometry_0 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 0, 'clusters': 20, 'max_cluster_diameter_m': 0.14304617047309875}
+full_geometry_1 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 0, 'clusters': 20, 'max_cluster_diameter_m': 0.14304617047309875}
+full_geometry_2 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 0, 'clusters': 20, 'max_cluster_diameter_m': 0.14304617047309875}
+full_random_0 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 0, 'clusters': 20, 'max_cluster_diameter_m': 0.1669618934392929}
+full_random_1 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 0, 'clusters': 20, 'max_cluster_diameter_m': 0.12735985219478607}
+full_random_2 {'level': 3, 'checkpoint_position_max_abs_m': 0.0, 'equals_last_supervised_map': True, 'mass_error': 0.0, 'disconnected_clusters': 0, 'clusters': 20, 'max_cluster_diameter_m': 0.14045262336730957}

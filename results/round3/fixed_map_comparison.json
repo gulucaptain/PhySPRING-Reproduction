@@ -1,0 +1,38 @@
+[
+  {
+    "variant": "full_geometry",
+    "seed": 0,
+    "exact_map_equal": true,
+    "same_membership": true
+  },
+  {
+    "variant": "full_geometry",
+    "seed": 1,
+    "exact_map_equal": true,
+    "same_membership": true
+  },
+  {
+    "variant": "full_geometry",
+    "seed": 2,
+    "exact_map_equal": true,
+    "same_membership": true
+  },
+  {
+    "variant": "full_random",
+    "seed": 0,
+    "exact_map_equal": true,
+    "same_membership": true
+  },
+  {
+    "variant": "full_random",
+    "seed": 1,
+    "exact_map_equal": true,
+    "same_membership": true
+  },
+  {
+    "variant": "full_random",
+    "seed": 2,
+    "exact_map_equal": true,
+    "same_membership": true
+  }
+]
